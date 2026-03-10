@@ -1,4 +1,4 @@
-# Claude Code Research Skills
+# Auto-claude-code-research-in-sleep
 
 Custom [Claude Code](https://docs.anthropic.com/en/docs/claude-code) skills for autonomous ML research workflows. These skills orchestrate **cross-model collaboration** — Claude Code drives the research while an external LLM (via [Codex MCP](https://github.com/openai/codex)) acts as a critical reviewer.
 
@@ -29,7 +29,7 @@ The main event. Autonomously loops: **review → implement fixes → re-review**
 
 **Trigger:** `"auto review loop"`, `"review until it passes"`
 
-## Score Progression (Real Run)
+## Score Progression (Real Run of Auto-claude-code-research-in-sleep)
 
 A real 4-round run on an ML research project, going from borderline reject to submission-ready:
 
