@@ -156,7 +156,7 @@ claude
 
 ### 工作流 3：论文写作流水线 📝
 
-> "把我的研究报告变成可投稿的 PDF。"
+> "把我的研究报告变成可投稿的 PDF。" 需要本地 LaTeX 环境——见[前置条件](#前置条件)。
 
 **涉及 Skills：** `paper-plan` + `paper-figure` + `paper-write` + `paper-compile` + `auto-paper-improvement-loop`
 

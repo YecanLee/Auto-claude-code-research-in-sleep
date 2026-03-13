@@ -194,7 +194,7 @@ The output is a ranked `IDEA_REPORT.md` with hypotheses, pilot results, reviewer
 
 ### Workflow 3: Paper Writing Pipeline 📝
 
-> **"Turn my research narrative into a submission-ready PDF."**
+> **"Turn my research narrative into a submission-ready PDF."** Requires a local LaTeX environment — see [Prerequisites](#prerequisites).
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
