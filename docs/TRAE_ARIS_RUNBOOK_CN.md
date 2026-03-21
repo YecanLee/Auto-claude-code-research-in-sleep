@@ -152,7 +152,7 @@ Trae 支持以下五种方式调用 Skills：
 
 ```
 @skills/auto-review-loop/SKILL.md
-Run the auto review loop for "factorized gap in discrete diffusion LMs".
+请为「factorized gap in discrete diffusion LMs」运行自动审查循环。
 ```
 
 注意：使用 `@skills/.../SKILL.md` 时，对应的 `skills/` 目录必须在当前 Trae workspace 中可见（例如把 ARIS 仓库或其中的 `skills/` 目录加入当前工作区），否则文件引用会失败。
